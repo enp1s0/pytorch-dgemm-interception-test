@@ -1,5 +1,8 @@
 # DGEMM interception test
 
+**Note**
+Make sure that PyTorch is built with a BLAS implementation for the CPU.
+
 ## Build
 ```bash
 git clone https://github.com/enp1s0/pytorch-dgemm-interception-test
