@@ -1,7 +1,7 @@
 # DGEMM interception test
 
 > **Note**
-> Make sure that PyTorch is built with a BLAS implementation for the CPU.
+> Make sure that PyTorch is built with some BLAS implementation for CPU.
 
 ## Build
 ```bash
